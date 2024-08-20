@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b361ba8fa0307846",
+    "type": "split",
+    "children": [
+      {
+        "id": "0082ded7838cde3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9655bf8cca513f1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "773fe923d6aae05f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea282a736c9cc10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be76806f4a43fc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56c586afe6633150",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1c5ccd8034e5d35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aef308e657ccf46b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d70816624b112c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463e99c42d077c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b727f9c026f497a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45f51f10cf7db8ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd39b15bd5b96f21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4be76806f4a43fc8",
+  "lastOpenFiles": [
+    "Get CSRF Token.md",
+    "Template/POST.md",
+    "Template/GET.md",
+    "Template/API Docs.md",
+    "create a link.md",
+    "Template",
+    "Pasien/Record/See Record Detail.md",
+    "Pasien/Record/See Lab Result.md",
+    "Pasien/Record/Get Record List.md",
+    "Pasien/Record",
+    "Pasien/Family/Add New Family/Reject Request.md",
+    "Pasien/Family/Add New Family/Create Request.md",
+    "Pasien/Family/Add New Family/Cancel Request.md",
+    "Pasien/Family/Add New Family/Accept Request.md",
+    "Pasien/Family/Remove Someone.md",
+    "Pasien/Family/Update KK.md",
+    "Pasien/Family/Add New Family",
+    "Pasien/Family/Get Family List.md",
+    "Pasien/Family",
+    "Pasien/Auth/Sign Up.md",
+    "Pasien/Auth/Sign Out.md",
+    "Pasien/Auth/Sign In.md",
+    "Pasien/Auth/Get Profile.md",
+    "Pasien/Auth",
+    "Pasien",
+    "Dokter",
+    "Admin",
+    "Welcome.md"
+  ]
+}
