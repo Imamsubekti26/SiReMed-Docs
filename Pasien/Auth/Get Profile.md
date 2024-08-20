@@ -1,3 +1,5 @@
+# Get Profile
+
 Mendapatkan profile dari user yang sedang login saat ini.
 
 ```

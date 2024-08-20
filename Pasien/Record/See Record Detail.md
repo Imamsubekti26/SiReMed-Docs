@@ -1,3 +1,5 @@
+# See Record Detail
+
 Melihat detail informasi dari sebuah record.
 
 ```

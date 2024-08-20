@@ -1,3 +1,5 @@
+# Sign Out
+
 Logout untuk semua role user (admin, dokter, pasien)
 
 ```

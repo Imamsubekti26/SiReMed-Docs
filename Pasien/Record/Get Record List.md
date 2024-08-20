@@ -1,3 +1,5 @@
+# Get Record List
+
 Mendapatkan daftar record dan ocr
 
 ```

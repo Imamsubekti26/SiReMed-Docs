@@ -1,4 +1,6 @@
-Menghapus seseorang dari anggota keluarga.
+# Remove Family
+
+Menghapus seseorang dari daftar anggota keluarga.
 
 ```
 /api/family/{family_id}
