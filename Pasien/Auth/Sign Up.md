@@ -18,14 +18,14 @@ Header:
 Body: 
 ```json
 {
-    "name" : "<full-name>",
-    "email" : "<email>",
-    "password" : "<password>",
-    "password_confirmation" : "<password>",
-    "date_of_birth": "YYYY-MM-DD",
-    "is_male": true,
-    "address": "<address>",
-    "phone": "<phone-number>"
+	"name" : "<full-name>",
+	"email" : "<email>",
+	"password" : "<password>",
+	"password_confirmation" : "<password>",
+	"date_of_birth": "YYYY-MM-DD",
+	"is_male": true,
+	"address": "<address>",
+	"phone": "<phone-number>"
 }
 ```
 

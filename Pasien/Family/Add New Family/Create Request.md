@@ -19,10 +19,10 @@ Header:
 Body: 
 ```json
 {
-    "user_id": "<id-family-member>",
-    "relationship": "<relationship>",
-    "same_blood":true,
-    "same_kk": true
+	"user_id": "<id-family-member>",
+	"relationship": "<relationship>",
+	"same_blood":true,
+	"same_kk": true
 }
 ```
 
