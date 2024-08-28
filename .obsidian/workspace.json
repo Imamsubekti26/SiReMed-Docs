@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10db730f8791ec88",
+        "id": "2db114302b4ac210",
         "type": "tabs",
         "children": [
           {
-            "id": "710d4b24d5cf2df6",
+            "id": "32ad08eb209aca16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "710d4b24d5cf2df6",
+  "active": "32ad08eb209aca16",
   "lastOpenFiles": [
-    "Admin/Doctor/Get Active Doctor List.md",
+    "Pasien/Auth/Update Profile.md",
+    "Dokter/Auth/Update Profile.md",
+    "Admin/Auth/Update Profile.md",
     "README.md",
+    "Admin/Doctor/Get Active Doctor List.md",
     "Admin/Admin/Get Admin List.md",
     "Admin/Admin/Add New Admin.md",
     "Dokter/Patient/Record/Get Patient's Records Info.md",
@@ -161,7 +156,6 @@
     "Pasien/Record/Get Record List.md",
     "Pasien/Family/Get Family List.md",
     "Dokter/Auth/Sign In.md",
-    "Dokter/Auth/Update Profile.md",
     "Dokter/Patient/Record/Push New Data/New OCR.md",
     "Admin/Hospital and department/Hospital/Add New Hospital.md",
     "Admin/Hospital and department/Get All Hospital and Department.md",
@@ -173,11 +167,9 @@
     "Admin/Hospital and department/Hospital",
     "Admin/Hospital and department/Department",
     "Admin/Hospital and department",
-    "Pasien/Auth/Update Profile.md",
     "Pasien/Auth/Sign Up.md",
     "Pasien/Auth/Sign Out.md",
     "Pasien/Auth/Sign In.md",
-    "Pasien/Auth/Get Profile.md",
     "Admin/Patient",
     "Admin/Doctor",
     "Admin/Admin",

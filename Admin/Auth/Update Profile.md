@@ -22,9 +22,13 @@ Body:
 	"email": "<new-email>",
 	"phone": "<new-phone-number>",
 	"address": "<new-address>",
-	"picture": "<base64-profile-picture>"
+	"picture": "<base64-profile-picture>",
+	"pin": "<pin>",
+	"old_pin": "<old-pin>"
 }
 ```
+
+*Note: Old-pin is optional, only used when user want to update the existing pin*
 
 ### Response
 
