@@ -1,4 +1,4 @@
-# Update Profile (not tested yet)
+# Update Profile
 
 update profile
 
@@ -22,7 +22,7 @@ Body:
 	"email": "<new-email>",
 	"phone": "<new-phone-number>",
 	"address": "<new-address>",
-	"picture": "<multipart-new-profile-picture>"
+	"picture": "<base64-profile-picture>"
 }
 ```
 

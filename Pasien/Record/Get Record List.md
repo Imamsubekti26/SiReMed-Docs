@@ -3,7 +3,7 @@
 Mendapatkan daftar record dan ocr
 
 ```
-/api/records
+/api/records?pin={pin}
 ```
 
 ### Request

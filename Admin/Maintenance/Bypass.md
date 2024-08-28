@@ -1,9 +1,9 @@
-# Get Patient's Personal Info
+# Bypass
 
-Mendapatkan data record dari pasien yang bersangkutan.
+Digunakan untuk mem-bypass maintenance mode
 
 ```
-/api/user/{user_id}/records?pin={pin}
+/{bypass_code}
 ```
 
 ### Request

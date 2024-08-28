@@ -20,7 +20,7 @@ Body:
 ```json
 {
 	"patient_id": "<patient-id>",
-	"hospital_id": "<hospital-id>",
+	"hospital": "<hospital-name>",
 	"department": "<department-name>",
 	"date": "<ocr-taken-date>",
 	"time": "<ocr-taken-time>",

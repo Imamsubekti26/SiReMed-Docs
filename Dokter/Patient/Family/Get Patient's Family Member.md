@@ -3,7 +3,7 @@
 Mendapatkan data anggora keluarga dari pasien yang bersangkutan.
 
 ```
-/api/user/{user_id}/families
+/api/user/{user_id}/families?pin={pin}
 ```
 
 ### Request

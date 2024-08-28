@@ -1,4 +1,4 @@
-# New Record Data (not implemented)
+# New Record Data
 
 Menambahkan record baru untuk pasien terkait.
 
@@ -31,13 +31,15 @@ Body:
 		"blood_pressure": "80/100",
 		"oxygen_levels": 98
 	},
-	"medicine": {
-		"name": "paracetamol",
-		"dose": "500mg",
-		"after_meal": true,
-		"user_up": false,
-		"hours": 8
-	},
+	"medicine": [
+		{
+			"name": "paracetamol",
+			"dose": "500mg",
+			"after_meal": true,
+			"user_up": false,
+			"hours": 8
+		}
+	],
 	"food_allergies": [],
 	"drug_allergies": ["penicilin"]
 }

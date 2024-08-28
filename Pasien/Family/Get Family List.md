@@ -3,7 +3,7 @@
 Mendapatkan daftar anggota keluarga dari user yang login saat ini.
 
 ```
-/api/families
+/api/families?pin={pin}
 ```
 
 ### Request

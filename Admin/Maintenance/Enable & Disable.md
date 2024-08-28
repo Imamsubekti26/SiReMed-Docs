@@ -1,6 +1,4 @@
-# Maintenance (not full implemented yet)
-
-*TODO: aktifkan 'down' bawaan laravel*
+# Enable Disable Maintenance
 
 Hit sekali untuk pindah ke mode maintenance, hit sekali lagi untuk pindah ke mode ready.
 
@@ -36,7 +34,11 @@ Body:
 		"success" : true,
 		"message" : "<failed/success-message>"
 	},
-	"data" : []
+	"data" : [
+		"bypass_url" : "<url-for-bypass-mtc-mode>",
+		"bypass_code" : "<code-for-bypass-mtc-mode>"
+	]
 }
 ```
 
+*Note: gunakan bypass_code atau bypass_url untuk mengakses website ketika mode maintenance*
