@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1aff9fda7fa58b19",
+        "id": "10db730f8791ec88",
         "type": "tabs",
         "children": [
           {
-            "id": "7a24b38d07b91a3f",
+            "id": "710d4b24d5cf2df6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a24b38d07b91a3f",
+  "active": "710d4b24d5cf2df6",
   "lastOpenFiles": [
+    "Admin/Doctor/Get Active Doctor List.md",
+    "README.md",
+    "Admin/Admin/Get Admin List.md",
+    "Admin/Admin/Add New Admin.md",
     "Dokter/Patient/Record/Get Patient's Records Info.md",
     "Dokter/Patient/Family/Get Patient's Family Member.md",
     "Dokter/Patient/Family/Get Patient's Personal Info.md",
@@ -166,10 +178,6 @@
     "Pasien/Auth/Sign Out.md",
     "Pasien/Auth/Sign In.md",
     "Pasien/Auth/Get Profile.md",
-    "Dokter/Auth/Sign Up.md",
-    "Dokter/Auth/Sign Out.md",
-    "Dokter/Auth/Get Profile.md",
-    "Admin/Auth/Update Profile.md",
     "Admin/Patient",
     "Admin/Doctor",
     "Admin/Admin",
